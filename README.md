@@ -71,7 +71,7 @@ La API estará disponible en `http://localhost:8080`.
    ```
    O cambia el puerto en `application.properties`:
    ```properties
-   server.port=8081
+   server.port=9091
    ```
 
 2. **Problemas con la base de datos**:
@@ -82,5 +82,5 @@ La API estará disponible en `http://localhost:8080`.
 Si deseas contribuir, ¡eres bienvenido! Haz un **fork**, crea una rama y envía un **pull request**.
 
 ## 📜 Licencia
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia trololingo.
 
